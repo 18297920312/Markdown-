@@ -7,7 +7,8 @@
 学习经历：
 1. 毕业院校：双非一本
 2. 本科专业：自动化
-
+   
+`这个是单行代码: var a,b,c;`
 ```javascript
 console.log('这是一行JavaScript代码');
 ```
